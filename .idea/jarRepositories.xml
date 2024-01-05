@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="dbcs-snapshots-local" />
+      <option name="url" value="http://artifacthub.oraclecorp.com/list/dbcs-snapshots-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="artifacthub-phx.oci.oraclecorp.com" />
+      <option name="name" value="artifacthub-phx.oci.oraclecorp.com" />
+      <option name="url" value="https://artifacthub-phx.oci.oraclecorp.com/artifactory/dbintg-db3party-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bcfips" />
+      <option name="name" value="artifactory-bc-fips-releases" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/bc-fips-release-maven-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots-dbaas-build" />
+      <option name="name" value="dbaas-release-maven-local" />
+      <option name="url" value="https://artifactory-builds.oci.oraclecorp.com/list/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dbcs-dev-local-snapshots" />
+      <option name="name" value="dbcs-dev-local" />
+      <option name="url" value="http://artifacthub.oraclecorp.com/list/dbcs-dev-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dbintg-db3party-release" />
+      <option name="name" value="DB Integration - 3rd party libs" />
+      <option name="url" value="https://artifacthub-phx.oci.oraclecorp.com/dbintg-db3party-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oscs-oci-oracledist" />
+      <option name="name" value="OSCS OCI repo" />
+      <option name="url" value="https://artifacthub-phx.oci.oraclecorp.com/oscs-oci-oracledist/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="dbcs-dev-local-snapshots" />
+      <option name="name" value="dbcs-dev-local" />
+      <option name="url" value="https://artifacthub-phx.oci.oraclecorp.com/dbcs-dev-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots1" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="http://artifacthub.oraclecorp.com/list/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="release1" />
+      <option name="name" value="libs-release" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jdbc-dev-local" />
+      <option name="name" value="jdbc-dev-local" />
+      <option name="url" value="https://artifacthub-phx.oci.oraclecorp.com/jdbc-dev-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="release-commons-local" />
+      <option name="name" value="commons-release-maven-local" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/commons-release-maven-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="release" />
+      <option name="name" value="dbcs-release-local" />
+      <option name="url" value="http://artifacthub.oraclecorp.com/list/dbcs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oci-commons" />
+      <option name="name" value="artifactory-commons-releases" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/commons-release-maven-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="lib-release" />
+      <option name="name" value="artifactory-lib-release" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/libs-release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="release-dbaas-local" />
+      <option name="name" value="dbaas-release-local" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/dbaas-release-maven-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="dbcs-snapshots-local" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/dbcs-dcsserveroci-snapshot-maven-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots1" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="release" />
+      <option name="name" value="dbcs-release-local" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/dbcs-dcsserveroci-release-maven-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="oci-snapshots" />
+      <option name="name" value="libs-snapshot" />
+      <option name="url" value="https://artifactory.oci.oraclecorp.com/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="helidon-release" />
+      <option name="name" value="Helidon repo" />
+      <option name="url" value="https://artifacthub-phx.oci.oraclecorp.com/helidon-release-local/" />
+    </remote-repository>
+  </component>
+</project>
